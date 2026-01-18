@@ -1,6 +1,6 @@
-#Live Demo
+#**Live Demo**
 
-https://essakkipandiant-git.github.io/rock-paper-scissors-game/
+**---->** https://essakkipandiant-git.github.io/rock-paper-scissors-game/
 
 # Rock Paper Scissors Game 
 
