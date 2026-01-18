@@ -1,3 +1,7 @@
+#Live Demo
+
+https://essakkipandiant-git.github.io/rock-paper-scissors-game/
+
 # Rock Paper Scissors Game 
 
 A simple and interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript**.  
